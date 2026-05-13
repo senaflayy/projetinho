@@ -1,0 +1,31 @@
+body {
+  background: #db97d7;
+  color: black;
+  text-align: center;
+  font-family: Arial;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+#countdown {
+  font-size: 60px;
+  margin: 20px;
+}
+
+video,
+canvas {
+  width: 300px;
+  border-radius: 12px;
+  margin-top: 12px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 12px 20px;
+  font-size: 18px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
