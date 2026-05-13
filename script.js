@@ -53,7 +53,7 @@ button.addEventListener("click", async () => {
   canvas.width = 500;
   canvas.height = 700;
 
-  ctx.fillStyle = "#e889da";
+  ctx.fillStyle = "#5a0606";
   ctx.fillRect(0, 0, canvas.width, canvas.height);
 
   let x = 20;
